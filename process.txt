@@ -1,0 +1,32 @@
+process
+
+
+
+Kush: delete the .git folder in it
+
+
+Kush: then git init
+
+
+GAURAV: k..
+
+
+Kush: thn git add .
+then commit
+
+
+GAURAV: abe abhi kaha se kar luu mei
+
+
+Kush: then git push origin master
+
+
+GAURAV: m on windows
+
+
+Kush: haan haan m tellin u remener
+i changed all the things
+where ruby on rails tutorial things cominh
+for time being railstutorials.org is changes to kushlabs
+.org
+
